@@ -1,6 +1,5 @@
 ---
 title: HAL
-id: "20240317191651"
 types:
   - publication repository
 tags:
@@ -14,3 +13,5 @@ According to the French Law, every researcher has the right, whatever be the con
 HAL gives you the opportunity to store all your publications and their related source code in open access and to edit a thorough curriculum of your research activity from these works, which is known as a HAL CV.
 
 this CV HAL can be used to certify a [[Mastodon]] account
+
+HAL team and Software Heritage Foundation have made an agreement so that it become possible to deposit source code in HAL and from there push it to the [[Software Heritage]] archive.
