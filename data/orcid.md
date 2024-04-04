@@ -6,3 +6,4 @@ tags:
   - unique identifier
 ---
 
+![ORCID logo](images/orcid.png)
