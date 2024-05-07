@@ -1,16 +1,14 @@
 ---
 title: Zotero
 types:
-  - reference manager
+  - gestionnaire de références
 tags:
-  - bibliography
-  - publication list
+  - bibliographie
+  - liste de publications
+thumbnail: zotero.jpg
 ---
+Zotero peut être utilisé pour compléter un profil [[ORCID]]. 
 
-![zotero dashboard](images/zotero.png)
+vous pouvez également publier une liste de vos publications à l'aide de la fonction "Mes publications" de Zotero. 
 
-Zotero can be used to complete an [[ORCID]] profile. 
-
-you can also publish a list of your publications with the "My publications" feature in Zotero. 
-
-Zotero can help you to complete a [[HAL]] profile
+Zotero peut vous aider à compléter un profil [[HAL]].

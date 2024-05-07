@@ -1,11 +1,16 @@
 ---
 title: Zenodo
 types:
-  - publication and data repository
+  - répertoire de publications
+  - répertoire de données
 tags:
-  - scientific communication
+  - communication scientifique
+thumbnail: zenodo.png
 ---
 
-![zenodo logo](images/zenodo.png)
+infrastructure européenne au départ conçue pour les données de recherche mais qui permet aujourd'hui de déposer des supports pédagogiques, des preprints, des présentations. 
 
-It is possible to make a deposit from a [[Github]] repository 
+Possibilité de déposer du code source ou une présentation directement depuis le répertoire [[Github]].
+
+Zenodo est en mesure de décerner des [[DOI]] à tout ce que vous y déposez.
+

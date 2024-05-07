@@ -5,13 +5,14 @@ types:
 tags:
   - scientific repository
   - open archive
+thumbnail: HAL.jpg
 ---
 
-[HAL](https://hal.science) is the French National repository for publications. 
-According to the French Law, every researcher has the right, whatever be the contract they have signed with the publisher, to store the Author Accepted Manuscript in this repository as early as 6 months after its publication in Hard Sciences or 12 months in Social and Human Sciences
+[HAL](https://hal.science) est le dépôt national français des publications. 
+Selon la loi française, tout chercheur a le droit, quel que soit le contrat qu'il a signé avec l'éditeur, de stocker le manuscrit accepté par l'auteur dans ce dépôt dès 6 mois après sa publication en sciences exactes ou 12 mois en sciences sociales et humaines.
 
-HAL gives you the opportunity to store all your publications and their related source code in open access and to edit a thorough curriculum of your research activity from these works, which is known as a HAL CV.
+HAL vous donne la possibilité de stocker toutes vos publications et leur code source en libre accès et d'éditer à partir de ces travaux un curriculum complet de votre activité de recherche, connu sous le nom de CV HAL.
 
-this CV HAL can be used to certify a [[Mastodon]] account
+Ce CV HAL peut être utilisé pour certifier un compte [[Mastodon]].
 
-HAL team and Software Heritage Foundation have made an agreement so that it become possible to deposit source code in HAL and from there push it to the [[Software Heritage]] archive.
+L'équipe HAL et la Fondation Software Heritage ont conclu un accord pour qu'il devienne possible de déposer du code source dans HAL et de le pousser ensuite vers l'archive [[Software Heritage]].

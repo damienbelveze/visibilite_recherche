@@ -4,11 +4,9 @@ types:
   - forge
 tags:
   - source code
+thumbnail: github.png
 ---
+A partir d'un répertoire public sur une force logicielle (Github ou Gitlab) et d'un générateur de site statique (Hugo, Jekyll, etc), il est possible de créer facilement un [[site statique]] pour partager des réflexions qui accompagnent l'écriture de ses travaux de recherche, donner de l'unité à sa présence en ligne.  
 
-![github](images/github.png)
-
-from a public repo on Github you may generate a public [[static website]] 
-
-in order to archive your code, you may push your repository to [[Software Heritage]]
+Ce site comme n'importe quel répertoire d'une forge logicielle peut être facilement archivé dans [[Software Heritage]]
 
